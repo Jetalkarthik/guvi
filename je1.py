@@ -6,4 +6,3 @@ if a>0:
       print("Odd")
 else:
       print("Invalid")
-
